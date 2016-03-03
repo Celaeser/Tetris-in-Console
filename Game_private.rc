@@ -1,0 +1,6 @@
+A                       ICON                    ".\\game.ico"
+W_LAND					WAVE					".\\Sound\\Land.wav"
+W_ROTATE				WAVE					".\\Sound\\Rotate.wav"
+W_ROTATE_F				WAVE					".\\Sound\\Rotate_fail.wav"
+W_GAMEOVER				WAVE					".\\Sound\\Gameover.wav"
+W_CLEAR					WAVE					".\\Sound\\Clear.wav"
